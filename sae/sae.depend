@@ -1,0 +1,45 @@
+# depslib dependency file v1.0
+1638197863 source:u:\sae\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1640712156 source:d:\sae\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1642515236 source:e:\sae15\sae\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"fonctions.h"
+
+1642368974 source:d:\sae15\sae\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"fonctions.h"
+
+1642505908 e:\sae15\sae\fonctions.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1642505900 source:e:\sae15\sae\fonctions.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"fonctions.h"
+
+1642367776 source:d:\sae15\sae\fonctions.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"fonctions.h"
+
+1642367776 d:\sae15\sae\fonctions.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
